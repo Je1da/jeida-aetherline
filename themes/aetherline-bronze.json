@@ -10,19 +10,19 @@
     "editorIndentGuide.background1": "#483E36",
     "editorIndentGuide.activeBackground1": "#7B5B2F",
 
-    "sideBar.background": "#25211D",
+    "sideBar.background": "#2b2622",
     "sideBar.foreground": "#E7D6B1",
     "sideBar.border": "#3B362F",
     "sideBarTitle.foreground": "#CDA26E",
     "sideBarSectionHeader.background": "#2B271F",
     "sideBarSectionHeader.foreground": "#B4744B",
 
-    "window.activeBorder": "#000000",
+    "window.activeBorder": "#564d43",
     "window.inactiveBorder": "#000000",
-    "window.background": "#12100F",
+    "window.background": "#817465",
 
 
-    "activityBar.background": "#2B271F",
+    "activityBar.background": "#1a1614", //cc3300
     "activityBar.foreground": "#E7D6B1",
     "activityBarBadge.background": "#B4744B",
     "activityBarBadge.foreground": "#1F1B18",
@@ -33,13 +33,13 @@
     "statusBar.debuggingBackground": "#B36B49",
 
 
-    "titleBar.activeBackground": "#2B271F",
+    "titleBar.activeBackground": "#1a1614",
     "titleBar.activeForeground": "#E7D6B1",
     "titleBar.inactiveBackground": "#1F1B18",
     "titleBar.inactiveForeground": "#7B6E5D",
 
     "tab.activeBackground": "#1F1B18",
-    "tab.inactiveBackground": "#25211D",
+    "tab.inactiveBackground": "#2b2621",
     "tab.activeForeground": "#E7D6B1",
     "tab.inactiveForeground": "#7B6E5D",
     "tab.border": "#3B362F",
