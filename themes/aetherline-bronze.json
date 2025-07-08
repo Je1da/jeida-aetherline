@@ -17,6 +17,11 @@
     "sideBarSectionHeader.background": "#2B271F",
     "sideBarSectionHeader.foreground": "#B4744B",
 
+    "window.activeBorder": "#000000",
+    "window.inactiveBorder": "#000000",
+    "window.background": "#12100F",
+
+
     "activityBar.background": "#2B271F",
     "activityBar.foreground": "#E7D6B1",
     "activityBarBadge.background": "#B4744B",
@@ -26,6 +31,7 @@
     "statusBar.foreground": "#E7D6B1",
     "statusBar.noFolderBackground": "#25211D",
     "statusBar.debuggingBackground": "#B36B49",
+
 
     "titleBar.activeBackground": "#2B271F",
     "titleBar.activeForeground": "#E7D6B1",
