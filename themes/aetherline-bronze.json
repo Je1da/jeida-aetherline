@@ -22,7 +22,7 @@
     "window.background": "#817465",
 
 
-    "activityBar.background": "#1a1614", //cc3300
+    "activityBar.background": "#1a1614",
     "activityBar.foreground": "#E7D6B1",
     "activityBarBadge.background": "#B4744B",
     "activityBarBadge.foreground": "#1F1B18",
