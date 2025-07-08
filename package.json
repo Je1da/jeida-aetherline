@@ -1,0 +1,21 @@
+{
+  "name": "jeida-aetherline",
+  "displayName": "Aetherline",
+  "description": "Perfect for developers who appreciate a cozy, sophisticated aesthetic that balances readability with a touch of rustic elegance.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aetherline",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aetherline-color-theme.json"
+      }
+    ]
+  }
+}
