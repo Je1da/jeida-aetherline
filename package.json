@@ -12,10 +12,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aetherline",
+        "label": "Aetherline Bronze",
         "uiTheme": "vs-dark",
-        "path": "./themes/Aetherline-color-theme.json"
+        "path": "./themes/aetherline-bronze.json"
+      },
+      {
+        "label": "Aetherline Cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aetherlin-cool.json"
       }
+
     ]
   }
 }
